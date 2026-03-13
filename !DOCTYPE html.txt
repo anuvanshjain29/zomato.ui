@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Zomato UI Landing Page</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="hero">
+
+<h1>Zomato</h1>
+<p>Discover the best food & drinks in your city</p>
+
+<div class="search-box">
+<input type="text" placeholder="Search for restaurant, cuisine or dish">
+</div>
+
+</header>
+
+<section class="categories">
+
+<div class="card">
+<img src="https://source.unsplash.com/400x300/?restaurant">
+<h3>Restaurants</h3>
+<p>Explore the best restaurants</p>
+</div>
+
+<div class="card">
+<img src="https://source.unsplash.com/400x300/?food">
+<h3>Food Delivery</h3>
+<p>Order food at your doorstep</p>
+</div>
+
+<div class="card">
+<img src="https://source.unsplash.com/400x300/?dining">
+<h3>Dining Out</h3>
+<p>Find the best dining places</p>
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 Zomato UI Clone</p>
+
+</footer>
+
+</body>
+</html>
